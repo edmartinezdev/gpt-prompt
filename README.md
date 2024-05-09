@@ -25,7 +25,7 @@ Before you dive in, make sure you have the following:
 Clone the repo and install the dependencies:
 
 git clone https://github.com/edmartinezdev/gpt-prompt.git
-cd chatgpt-node-integration
+cd gpt-prompt
 npm install
 
 Configuration

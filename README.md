@@ -28,6 +28,7 @@ Clone the repo and install the dependencies:
 git clone https://github.com/yourusername/chatgpt-node-integration.git
 cd chatgpt-node-integration
 npm install
+```bash
 
 Configuration
 Create a .env file in the root directory.
